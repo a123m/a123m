@@ -12,10 +12,11 @@
 
 I'm a passionate full-stack developer from India with a strong interest in building scalable and efficient web and mobile applications. I enjoy working with modern technologies and continuously strive to improve my skills and contribute to the developer community.
 
-- 🔭 Currently working on [TakeUsNow](https://github.com/a123m/TakeUsNow)
-- 🌱 Learning React Native to expand my mobile development expertise
-- 💬 Ask me about JavaScript, React, Node.js, and Django
-- 📫 Reach me at: amanchhabra131@gmail.com
+- 📱 Built [CraftyWalls](https://github.com/a123m/CraftyWalls) using React Native  
+- 🏥 Designed [Healthcare Prototype](https://github.com/a123m/healthcare-prototype) — a functional mobile UX for medical needs  
+- 🌱 Learning advanced mobile patterns and exploring backend optimizations  
+- 💬 Ask me about React Native, JavaScript, React, Node.js, and Django  
+- 📫 Reach me at: amanchhabra131@gmail.com  
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/amanchhabra131/)
 
 ---
@@ -24,6 +25,7 @@ I'm a passionate full-stack developer from India with a strong interest in build
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express)
 ![Django](https://img.shields.io/badge/-Django-black?logo=django)
@@ -45,17 +47,9 @@ I'm a passionate full-stack developer from India with a strong interest in build
 
 ### 📌 Pinned Repositories
 
-[![TakeUsNow](https://github-readme-stats.vercel.app/api/pin/?username=a123m&repo=TakeUsNow&theme=radical)](https://github.com/a123m/TakeUsNow)
+[![CraftyWalls](https://github-readme-stats.vercel.app/api/pin/?username=a123m&repo=CraftyWalls&theme=radical)](https://github.com/a123m/CraftyWalls)
 
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace with your blog posts using GitHub Actions or a static list -->
-- [Understanding React Hooks](https://yourblog.com/react-hooks)
-- [Building RESTful APIs with Django](https://yourblog.com/django-rest-api)
-<!-- BLOG-POST-LIST:END -->
+[![Healthcare Prototype](https://github-readme-stats.vercel.app/api/pin/?username=a123m&repo=healthcare-prototype&theme=radical)](https://github.com/a123m/healthcare-prototype)
 
 ---
 
@@ -65,4 +59,3 @@ I'm a passionate full-stack developer from India with a strong interest in build
 - [Email](mailto:amanchhabra131@gmail.com)
 
 ---
-
